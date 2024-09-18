@@ -1,0 +1,10 @@
+.numodd {
+    background-color: rgb(200, 140, 140);
+    font-family: verdana, "DejaVu Sans", Serif;
+    
+}
+
+#num2 {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
